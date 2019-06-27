@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Version>1.0.1906.2701</Version>
+    <Authors>Eugene Antonov</Authors>
+    <Company>Eugene Antonov</Company>
+    <Description>C# .Net Core general class library</Description>
+    <Copyright>Copyright (C) 2018-2019 Eugene Antonov</Copyright>
+    <PackageLicenseUrl>https://www.gnu.org/licenses/</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/eantonov17/EA17.ClassLibrary</RepositoryUrl>
+    <NeutralLanguage>en-US</NeutralLanguage>
   </PropertyGroup>
 
 </Project>
